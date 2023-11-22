@@ -1,4 +1,4 @@
-# si_git_project_demo
+# Just a simple git tutorials
 
 Hello there!
 
