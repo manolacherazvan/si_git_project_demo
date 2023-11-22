@@ -1,4 +1,4 @@
-# Just a simple git tutorials
+# Just a simple git repo, to be deleted
 
 Hello there!
 
